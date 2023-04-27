@@ -1,0 +1,41 @@
+body{
+  background-image: url("https://bsgame.ru/wp-content/uploads/2020/09/brawlstars.jpg");
+}
+h1{
+  text-align:center;
+  background-color:yellow;
+  border: 2px solid;
+  width:800px;
+  Margin-left:250px;
+  position:sticky;
+  top:0;
+}
+.a{
+  background-color:blue;
+  border: 2px solid black;
+  width:100px;
+  height:160px;
+}
+a{
+  text-decoration:none;
+  font-size:30px;
+  color:white;
+}
+.b{
+  background-color:green;
+  border: 2px solid black;
+  width:100px;
+  height:160px;
+  position:relative;
+  bottom:165px;
+  left:150px
+}
+.c{
+  background-color:green;
+  border: 2px solid black;
+  width:100px;
+  height:160px;
+  position:relative;
+  bottom:330px;
+  left:290px
+}
